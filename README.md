@@ -23,28 +23,35 @@ This repository includes 5 modular R scripts used to analyze prostate cancer ste
 ---
 
 ## File Structure
-
-Scripts/
-├── Script_1_Stemness_Quantification.R
-├── Script_2_PCa-Stem signature_GSVA.R
-├── Script_3_J-T trend testing.R
-├── Script_4_Multivariable Cox Regression Modeling.R
-├── Script_5_Regression Model.R
-├── Script_1_Example_data_Stemness.csv
-├── Script_1_Stemness_Weight_Vector_ENSGver.xlsx
-├── Script_1_Example_Meta-Group-Information_Stemness.xlsx
-├── Script_2_Example_data_PCa-Stem-Signature.csv
-├── Script_2_Example_Meta-Group-Information_PCa-Stem-Signature.xlsx
-├── Script_3_Example_data_JT_test.csv
-├── Script_4_Example_data_Cox_model.csv
-├── Script_5_Example_data_Regression_Interaction.csv
-├── Script_1_Output_Stemness_Index_Scores_ensg_with_version.csv
-├── Script_1_Output_Stemness_Boxplot.pdf
-├── Script_2_Output_PCa-Stem_ssGSEA_scores.csv
-├── Script_2_Output_PCa_Stem_Score_Grouped_Boxplot.pdf
-├── Script_4_Output_Example_data_Multivariate_analysis_signature_score.pdf
-├── Script_5_Output_Example_data_interaction_plot.png
-
+ProstateCancer-Stemness-Scripts/
+│
+├── Script_1_Stemness_Index.R
+├── Script_2_PCa-Stem_Signature_ssGSEA.R
+├── Script_3_JT_Trend_Test.R
+├── Script_4_Cox_Model.R
+├── Script_5_Regression_Interaction.R
+│
+├── Inputs_Example_Data/
+│ ├── Script_1_Example_data_Stemness.csv
+│ ├── Script_1_Stemness_Weight_Vector_ENSGver.xlsx
+│ ├── Script_1_Example_Meta-Group-Information_Stemness.xlsx
+│ ├── Script_2_Example_data_PCa-Stem-Signature.csv
+│ ├── Script_2_Example_Meta-Group-Information_PCa-Stem-Signature.xlsx
+│ ├── Script_3_Example_data_JT_test.csv
+│ ├── Script_4_Example_data_Cox_model.csv
+│ └── Script_5_Example_data_Regression_Interaction.csv
+│
+├── Outputs/
+│ ├── Script_1_Output_Stemness_Index_Scores_ensg_with_version.csv
+│ ├── Script_1_Output_Stemness_Boxplot.pdf
+│ ├── Script_2_Output_PCa_Stem_ssGSEA_scores.csv
+│ ├── Script_2_Output_PCa_Stem_Score_Grouped_Boxplot.pdf
+│ ├── Script_4_Test_Output_Multivariate_analysis_signature_score.pdf
+│ └── Script_5_Output_Example_data_interaction_plot.png
+│
+├── README.md
+├── dependencies.txt
+└── Code_Functionality_Overview_GitHub.docx
 ---
 
 ## System Requirements
