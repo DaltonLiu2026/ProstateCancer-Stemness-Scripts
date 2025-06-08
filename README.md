@@ -23,6 +23,7 @@ This repository includes 5 modular R scripts used to analyze prostate cancer ste
 ---
 
 ## File Structure
+```
 ProstateCancer-Stemness-Scripts/
 │
 ├── Script_1_Stemness_Index.R
@@ -52,6 +53,7 @@ ProstateCancer-Stemness-Scripts/
 ├── README.md
 ├── dependencies.txt
 └── Code_Functionality_Overview_GitHub.docx
+```
 ---
 
 ## System Requirements
