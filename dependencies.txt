@@ -1,0 +1,28 @@
+R version 4.3.3
+
+Core R packages:
+- stats (base R)
+- survival (v3.5-7)
+- base R graphics
+
+
+CRAN packages:
+- tidyverse (v2.0.0)
+- dplyr (v1.1.0)
+- readr (v2.1.4)
+- readxl (v1.4.3)
+- ggplot2 (v3.4.0)
+- magrittr (v2.0.3)
+- openxlsx (v4.2.5.2)
+- DescTools (v0.99.60)
+- survminer (v0.4.9)
+- pheatmap (v1.0.12)
+
+
+Bioconductor packages:
+- GSVA (v1.50.5)
+
+
+Other notes:
+- Input gene expression data should be normalized (e.g., FPKM, TPM, or VST).
+- Excel files must be in the working directory or referenced by path.
