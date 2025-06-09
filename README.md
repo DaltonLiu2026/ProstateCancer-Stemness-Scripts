@@ -68,3 +68,35 @@ ProstateCancer-Stemness-Scripts/
 ## Dependencies
 
 See `dependencies.txt` for full list of required packages and versions.
+
+---
+
+## How to Cite
+
+If you use these scripts or reproduce the analyses in your work, please cite both the Zenodo-archived scripts and our associated research manuscript:
+
+### 1. Scripts Archive (Zenodo)
+Liu, X. (2025). *Prostate Cancer Stemness Analysis Scripts* (Version v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.15620990
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15620990.svg)](https://doi.org/10.5281/zenodo.15620990)
+
+**BibTeX:**
+```bibtex
+@software{liu2025stemness,
+  author       = {Xiaozhuo Liu},
+  title        = {Prostate Cancer Stemness Analysis Scripts},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.15620990},
+  url          = {https://doi.org/10.5281/zenodo.15620990}
+}
+
+@article{liu2025increasing,
+  author       = {Liu, Xiaozhuo and Cortes, Eduardo and Ji, Yu and Zhao, Kun and Ho, Jingsong and Liu, Yifan and Tang, Dean G.},
+  title        = {Increasing Stemness Drives Prostate Cancer Progression, Plasticity, Therapy Resistance and Poor Patient Survival},
+  journal      = {bioRxiv},
+  year         = {2025},
+  doi          = {10.1101/2025.04.30.000000},
+  url          = {https://doi.org/10.1101/2025.04.30.000000}
+}
