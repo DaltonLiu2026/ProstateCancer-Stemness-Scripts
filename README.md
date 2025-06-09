@@ -27,11 +27,11 @@ This repository includes 5 modular R scripts used to analyze prostate cancer ste
 
 | Script No. | Name                                               | Functionality                                                               |
 |------------|----------------------------------------------------|-----------------------------------------------------------------------------|
-| 1          | `Script_1_Stemness_Quantification.R`               | Computes mRNAsi stemness scores per Malta et al., with optional boxplot     |
-| 2          | `Script_2_PCa-Stem signature_GSVA.R`               | Calculates PCa-Stem enrichment via ssGSEA using GSVA                        |
-| 3          | `Script_3_J-T trend testing.R`                     | Performs Jonckheere–Terpstra trend test across ordered groups               |
-| 4          | `Script_4_Multivariable Cox Regression Modeling.R` | Cox regression with clinical and molecular features                         |
-| 5          | `Script_5_Regression Model.R`                      | Linear regression testing for interaction effect (e.g., Stemness × Gleason) |
+|      1     | `Script_1_Stemness_Quantification.R`               | Computes mRNAsi stemness scores per Malta et al., with optional boxplot     |
+|      2     | `Script_2_PCa-Stem signature_GSVA.R`               | Calculates PCa-Stem enrichment via ssGSEA using GSVA                        |
+|      3     | `Script_3_J-T trend testing.R`                     | Performs Jonckheere–Terpstra trend test across ordered groups               |
+|      4     | `Script_4_Multivariable Cox Regression Modeling.R` | Cox regression with clinical and molecular features                         |
+|      5     | `Script_5_Regression Model.R`                      | Linear regression testing for interaction effect (e.g., Stemness × Gleason) |
 
 ---
 
@@ -39,11 +39,11 @@ This repository includes 5 modular R scripts used to analyze prostate cancer ste
 ```
 ProstateCancer-Stemness-Scripts/
 │
-├── Script_1_Stemness_Index.R
+├── Script_1_Stemness_Quantification.R
 ├── Script_2_PCa-Stem_Signature_GSVA.R
-├── Script_3_JT_Trend_Test.R
-├── Script_4_Cox_Model.R
-├── Script_5_Regression_Interaction.R
+├── Script_3_J-T trend testing.R
+├── Script_4_Multivariable Cox Regression Modeling.R
+├── Script_5_Regression Model.R
 │
 ├── Inputs_Example_Data/
 │ ├── Script_1_Example_data_Stemness.csv
@@ -87,7 +87,7 @@ See `dependencies.txt` for full list of required packages and versions.
 If you use these scripts or reproduce the analyses in your work, please cite both the Zenodo-archived scripts and our associated research manuscript:
 
 ### 1. Scripts Archive (Zenodo)
-Liu, X. (2025). *Prostate Cancer Stemness Analysis Scripts* (Version v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.15620990
+Liu, X., Cortes, E. (2025). *Prostate Cancer Stemness Analysis Scripts* (Version v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.15620990
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15620990.svg)](https://doi.org/10.5281/zenodo.15620990)
 
