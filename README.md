@@ -125,4 +125,4 @@ Liu, X., Cortes, E., Ji, Y., Zhao, K., Ho, J., Liu, Y., ... & Tang, D. G. (2025)
 ## Acknowledgments
 The mRNAsi stemness index implementation in this repository is adapted from the original methodology published by Malta et al., *Cell* 2018. We thank Drs. Tathiane Malta and Houtan Noushmehr for generously sharing their source code and responding to technical questions.  
 - Malta et al., *Cell* (2018): https://doi.org/10.1016/j.cell.2018.03.034.
-![image](https://github.com/user-attachments/assets/d8eb64b5-4536-4768-878a-314fe15a7802)
+---
