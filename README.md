@@ -1,5 +1,7 @@
 # Stemness Analysis Scripts for Prostate Cancer Transcriptomic Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15620990.svg)](https://doi.org/10.5281/zenodo.15620990)
+
 **Author:** Xiaozhuo Liu, Ph.D.  
 **Institution:** Roswell Park Comprehensive Cancer Center  
 **Contact:** Xiaozhuo.Liu@roswellpark.org  
