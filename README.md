@@ -17,8 +17,7 @@
 	- Song Liu (Conceptual framework and project supervision)
 	- Jianmin Wang  (Conceptual framework and project supervision)
 	- Dean G. Tang (Conceptual framework and project supervision)
- 
-![image](https://github.com/user-attachments/assets/ddf5350c-19de-49a2-ab4a-d4d73e2d46d7)
+
 
 This repository includes 5 modular R scripts used to analyze prostate cancer stemness from transcriptomic datasets. These scripts support mRNAsi index computation, ssGSEA-based PCa-Stem signature scoring, trend testing, Cox regression modeling, and interaction-based linear regression.
 
