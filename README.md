@@ -95,7 +95,7 @@ Liu, X. (2025). *Prostate Cancer Stemness Analysis Scripts* (Version v1.0.1). Ze
 ---
 
 ### 2. Research Article (bioRxiv)
-Liu, X., Cortes, E., Ji, Y., Zhao, K., Ho, J., Liu, Y., ... & Tang, D. G. (2025). Increasing Stemness Drives Prostate Cancer Progression, Plasticity, Therapy Resistance and Poor Patient Survival. bioRxiv. https://doi.org/10.1101/2025.04.30.000000
+Liu, X., Cortes, E., Ji, Y., Zhao, K., Ho, J., Liu, Y., ... & Tang, D. G. (2025). Increasing Stemness Drives Prostate Cancer Progression, Plasticity, Therapy Resistance and Poor Patient Survival. bioRxiv. https://doi.org/10.1101/2025.04.27.650697
 
 **BibTeX:**
 ```bibtex
@@ -104,8 +104,8 @@ Liu, X., Cortes, E., Ji, Y., Zhao, K., Ho, J., Liu, Y., ... & Tang, D. G. (2025)
   title        = {Increasing Stemness Drives Prostate Cancer Progression, Plasticity, Therapy Resistance and Poor Patient Survival},
   journal      = {bioRxiv},
   year         = {2025},
-  doi          = {10.1101/2025.04.30.000000},
-  url          = {https://doi.org/10.1101/2025.04.30.000000}
+  doi          = {10.1101/2025.04.27.650697},
+  url          = {https://doi.org/10.1101/2025.04.27.650697}
 }
 ```
 ---
