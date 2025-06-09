@@ -8,6 +8,18 @@
 **Date:** June 6, 2025
 
 
+**Contributors:** 
+	- Eduardo Cortes (Bioinformatics consultation) 
+	- Han Yu  (Survival model validation and feedback) 
+	- Qiang Hu (Conceptual framework and project supervision)
+	- Zou Cheng  (Survival model validation and feedback) 
+	- Dingxiao Zhang  (Survival model validation and feedback) 
+	- Song Liu (Conceptual framework and project supervision)
+	- Jianmin Wang  (Conceptual framework and project supervision)
+	- Dean G. Tang (Conceptual framework and project supervision)
+ 
+![image](https://github.com/user-attachments/assets/ddf5350c-19de-49a2-ab4a-d4d73e2d46d7)
+
 This repository includes 5 modular R scripts used to analyze prostate cancer stemness from transcriptomic datasets. These scripts support mRNAsi index computation, ssGSEA-based PCa-Stem signature scoring, trend testing, Cox regression modeling, and interaction-based linear regression.
 
 ---
@@ -29,7 +41,7 @@ This repository includes 5 modular R scripts used to analyze prostate cancer ste
 ProstateCancer-Stemness-Scripts/
 │
 ├── Script_1_Stemness_Index.R
-├── Script_2_PCa-Stem_Signature_ssGSEA.R
+├── Script_2_PCa-Stem_Signature_GSVA.R
 ├── Script_3_JT_Trend_Test.R
 ├── Script_4_Cox_Model.R
 ├── Script_5_Regression_Interaction.R
@@ -109,3 +121,8 @@ Liu, X., Cortes, E., Ji, Y., Zhao, K., Ho, J., Liu, Y., ... & Tang, D. G. (2025)
 }
 ```
 ---
+
+## Acknowledgments
+The mRNAsi stemness index implementation in this repository is adapted from the original methodology published by Malta et al., *Cell* 2018. We thank Drs. Tathiane Malta and Houtan Noushmehr for generously sharing their source code and responding to technical questions.  
+- Malta et al., *Cell* (2018): https://doi.org/10.1016/j.cell.2018.03.034.
+![image](https://github.com/user-attachments/assets/d8eb64b5-4536-4768-878a-314fe15a7802)
